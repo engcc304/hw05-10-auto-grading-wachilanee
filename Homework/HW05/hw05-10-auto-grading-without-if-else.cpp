@@ -45,10 +45,10 @@ int main()
     case 70:
         printf("B !");
         break;
-    case 65:
+    case 64:
         printf("C+ !");
         break;
-    case 64:
+    case 65:
         printf("C+ !");
         break;
     case 60:
