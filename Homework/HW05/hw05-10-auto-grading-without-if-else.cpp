@@ -46,7 +46,7 @@ int main()
         printf("B !");
         break;
     case 64:
-        printf("C+ !");
+        printf("C !");
         break;
     case 60:
         printf("C !");
