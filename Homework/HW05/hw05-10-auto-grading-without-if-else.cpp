@@ -48,9 +48,6 @@ int main()
     case 64:
         printf("C+ !");
         break;
-    case 65:
-        printf("C+ !");
-        break;
     case 60:
         printf("C !");
         break;
