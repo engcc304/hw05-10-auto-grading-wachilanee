@@ -37,28 +37,28 @@ int main()
     switch (score)
     {
     case 80:
-        printf("A");
+        printf("A !");
         break;
     case 75:
-        printf("B+");
+        printf("B+ !");
         break;
     case 70:
-        printf("B");
+        printf("B !");
         break;
     case 65:
-        printf("C+");
+        printf("C+ !");
         break;
     case 60:
-        printf("C");
+        printf("C !");
         break;
     case 55:
-        printf("D+");
+        printf("D+ !");
         break;
     case 50:
-        printf("D");
+        printf("D !");
         break;
     case 44:
-        printf("F");
+        printf("F !");
         break;
     }
     return 0;
